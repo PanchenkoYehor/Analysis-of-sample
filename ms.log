@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  2 APR 2021 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  5 APR 2021 10:32
 entering extended mode
 **./ms.tex
 (ms.tex
@@ -1518,34 +1518,35 @@ File: uesvect.fd
 <Plot1.png, id=55, 651.93562pt x 405.01312pt>
 File: Plot1.png Graphic file (type png)
 <use Plot1.png>
-Package pdftex.def Info: Plot1.png  used on input line 223.
+Package pdftex.def Info: Plot1.png  used on input line 238.
 (pdftex.def)             Requested size: 492.06537pt x 305.70578pt.
  [3] [4 <./Plot1.png>]
 <RPlotDistrFunc1.png, id=70, 413.74574pt x 419.76825pt>
 File: RPlotDistrFunc1.png Graphic file (type png)
 <use RPlotDistrFunc1.png>
-Package pdftex.def Info: RPlotDistrFunc1.png  used on input line 265.
+Package pdftex.def Info: RPlotDistrFunc1.png  used on input line 280.
 (pdftex.def)             Requested size: 492.06537pt x 499.25499pt.
  [5] [6 <./RPlotDistrFunc1.png>]
 <RPlotPoiss.png, id=85, 517.18219pt x 524.71031pt>
 File: RPlotPoiss.png Graphic file (type png)
 <use RPlotPoiss.png>
-Package pdftex.def Info: RPlotPoiss.png  used on input line 300.
+Package pdftex.def Info: RPlotPoiss.png  used on input line 315.
 (pdftex.def)             Requested size: 492.06537pt x 499.24858pt.
  [7]
 <RPlotBinom.png, id=92, 517.18219pt x 524.71031pt>
 File: RPlotBinom.png Graphic file (type png)
 <use RPlotBinom.png>
-Package pdftex.def Info: RPlotBinom.png  used on input line 306.
+Package pdftex.def Info: RPlotBinom.png  used on input line 321.
 (pdftex.def)             Requested size: 492.06537pt x 499.24858pt.
- [8 <./RPlotPoiss.png>] [9 <./RPlotBinom.png>] [10] [11] [12] [13] (ms.aux)
+ [8 <./RPlotPoiss.png>] [9 <./RPlotBinom.png>] [10] [11] [12] [13] [14] (ms.aux
+)
 Package rerunfilecheck Info: File `ms.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28304 strings out of 480236
+ 28305 strings out of 480236
  518154 string characters out of 2880557
- 1216176 words of memory out of 3000000
+ 1237176 words of memory out of 3000000
  44280 multiletter control sequences out of 15000+200000
  546233 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1567,9 +1568,9 @@ panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 :/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on ms.pdf (13 pages, 229636 bytes).
+Output written on ms.pdf (14 pages, 233761 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 470 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
