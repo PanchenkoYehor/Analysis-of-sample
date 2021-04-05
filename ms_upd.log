@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  5 APR 2021 11:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  5 APR 2021 12:59
 entering extended mode
 **./ms_upd.tex
 (ms_upd.tex
@@ -1454,6 +1454,9 @@ LaTeX Info: Redefining \nameref on input line 109.
 \@outlinefile=\write5
 \openout5 = `ms_upd.out'.
 
+
+! I can't write on file `ms_upd.pdf'.
+Please type another file name for output: ms_upd.pdf
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
 (scrartcl)           because of handling of possible bookmark level gaps.
@@ -1462,7 +1465,6 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
 (scrartcl)           before \begin{document} on input line 109.
-
 (C:\Users\panen\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
 
@@ -1568,7 +1570,7 @@ panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 :/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on ms_upd.pdf (14 pages, 232651 bytes).
+Output written on ms_upd.pdf (14 pages, 232591 bytes).
 PDF statistics:
  470 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)
