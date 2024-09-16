@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {1.\relax }Постановка задачи}{3}{section.1}%
 \contentsline {section}{\numberline {2.\relax }Решение задачи}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1.\relax }Построение вариационного ряда данной выборки}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2.\relax }Графическое изображение выборки}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2.\relax }Графическое изображение выборки}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3.\relax }Эмпирическая функция распределения}{5}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4.\relax }Выборочные медиана, мода и асимметрия}{6}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5.\relax }Нахождение несмещенных оценок математического ожидания и дисперсии}{7}{subsection.2.5}%
